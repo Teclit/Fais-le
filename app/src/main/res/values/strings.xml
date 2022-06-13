@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fais-le</string>
+    <string name="save">Sauvegarder</string>
+    <string name="new_task">Nouvelle tâche</string>
+    <string name="tasks">Tâches</string>
+    <string name="cancel">Annuler</string>
+</resources>
